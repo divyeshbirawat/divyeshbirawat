@@ -5,5 +5,6 @@
 - 🌱 Currently working as a Frontend Developer at GALE.
 - ✍️ Passionate about blogging and sharing knowledge.
 - 💞️ Always open to collaborations.
+- 📝 Check out my latest blogs on [Hashnode](https://divyeshbirawat.hashnode.dev/)
 - 📫 Reach me at: [divyeshbirawat@gmail.com](mailto:divyeshbirawat@gmail.com)
 - 🔗 Connect with me on LinkedIn: [linkedin.com/in/divyeshbirawat](https://linkedin.com/in/divyeshbirawat)
